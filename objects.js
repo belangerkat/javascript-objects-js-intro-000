@@ -1,1 +1,1 @@
-var playlist = {};
+var playlist = { flume : "sleepless" };
